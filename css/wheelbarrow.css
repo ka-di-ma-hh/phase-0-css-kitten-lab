@@ -1,4 +1,4 @@
-html {
+  html {
   background: url(../images/beautiful-day.jpg) no-repeat top center;
 }
 
@@ -33,6 +33,11 @@ img {
   background: url(../images/wheelbarrow-foreground.png) no-repeat;
   z-index: 10;
   top: 220px;
+}
+
+#basket, #ball {
+  display: inline;
+}
 }
 
 #basket, #ball {
